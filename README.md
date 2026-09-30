@@ -2,7 +2,7 @@
 
 **An independent sales analytics application built with Python, SQLite and vanilla JavaScript.**
 
-Turn order-line CSV files into a validated dataset, a filtered sales dashboard and exportable reports. A Business Intelligence portfolio project for **Ismail Bentayeb**, designed around data quality, SQL aggregation and transparent business metrics.
+Turn order-line CSV files into a validated dataset, a filtered sales dashboard and exportable reports. A Business Intelligence portfolio project , designed around data quality, SQL aggregation and transparent business metrics.
 
 ## Run
 
